@@ -1,5 +1,5 @@
 # primer_repo
-Soy Sofía Fernanda Lechuga Chávez
+## Soy Sofía Fernanda Lechuga Chávez
 
 Estudiante de Ingeniería en Alimentos
 
